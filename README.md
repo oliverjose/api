@@ -1,6 +1,6 @@
 # **API RESTful para Integração do Sistema Protheus Grupo Shark / SK com Sistema E-Commerce Millennium** #
 [Grupo Shark](http://www.gruposhark.com.br/) 
-## Recursos utilizados no desenvolvimento:## 
+## Recursos utilizados no desenvolvimento: ## 
 * Node.Js
 * Conceito RestFul
 * MongoDb 
